@@ -1,2 +1,1 @@
-# SockMerchant-hackerrank
-This is 
+
